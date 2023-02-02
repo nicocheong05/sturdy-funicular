@@ -1,0 +1,21 @@
+1NF - First Normal Form
+A relational database table structure that has no repeating fields or groups of fields
+8.2 Database Management System (DBMS)
+1Pv4
+IP address format which uses 32 bits, such as 200.21.100.6.
+2.1 Networks including the internet
+1Pv6
+Newer IP address format which uses 128 bits, such as A8F0:7FFF:FO F1: F000:3 DDO : 256 A: 22FF: AAOO.
+2.1 Networks including the internet
+2NF- Second Normal Form
+All non-key columns must depend on the entire primary key.
+8.2 Database Management System (DBMS)
+3NF - Third Normal Form
+Third normal form (3NF) is the third step in normalizing a database and it builds on the first and second normal forms, 1NF and 2NF.
+8.2 Database Management System (DBMS)
+Abnormal test data
+testdata that should be rejected by a program.
+6.2 Data Integrity
+Absolute addressing
+mode of addressing in which the contents of the memory location in the operand are used.
+4.2 Assembly Language
